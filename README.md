@@ -8,3 +8,4 @@ https://www.figma.com/design/IfJq3ks2kxvJMxHIN5HhKb/Apk-Jadwal-kuliah-V2?node-id
 ## Link Youtube video UX Protoype:
 https://youtu.be/lMCtCSGz8Aw
 
+[RPL UTS.pdf](https://github.com/user-attachments/files/23436302/RPL.UTS.pdf)
